@@ -12,4 +12,4 @@ KRİTİK  EŞİK  sözde  kod  mantığını
 6.	Eğer su_seviyesi <= 50 ise 3.adıma git
 7.	değilse ekrana “kapaklar açıldı”, saat ve su_seviyesini yazdır
 8.	bitir
-
+![Şema Açıklaması](isim.jpg)
